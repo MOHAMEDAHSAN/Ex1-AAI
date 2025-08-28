@@ -3,8 +3,10 @@
 <H3> Experiment 1</H3>
 <H3>DATE: 28/08/2025</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+
 ## Aim :
-    To create a bayesian Network for the given dataset in Python
+To create a bayesian Network for the given dataset in Python
+
 ## Algorithm:
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
 Step 2:Set pandas options to display more columns<br/>
@@ -211,9 +213,10 @@ query_with_evidence('W', '>50')
 ```
 
 ## Output:
-<img width="691" height="555" alt="image" src="https://github.com/user-attachments/assets/809078fc-d7ea-4142-8701-1a9018ce67f2" />
 
-<img width="1206" height="296" alt="image" src="https://github.com/user-attachments/assets/57474d31-78c4-450e-b76b-b1b31c296849" />
+<img width="674" height="508" alt="image" src="https://github.com/user-attachments/assets/e92daa12-5c13-41c6-b471-44f9ba70ffa8" />
+<img width="1601" height="270" alt="image" src="https://github.com/user-attachments/assets/2c5a6e6f-3621-4b8a-ac23-e40e1f542700" />
+
 
 ### Result:
 
